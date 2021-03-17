@@ -1,5 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "https://raw.githubusercontent.com/compliance-first/schemas/master/br/sensible/phone.schema.json",
   "description": "Phone number. Must be represented in its canonical international format, as defined by the E.164 numbering plan.",
   "type": "object",
   "title": "Phone type",
